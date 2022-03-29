@@ -1,3 +1,5 @@
+; not my code
+
         .model SMALL
         .stack 100h
         .data
